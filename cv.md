@@ -1,15 +1,19 @@
-# **Begin**
+# **Ihar Krutoi**
 
-**Starting RSSchool**
-*Date: 2024-06-26*
+### **Contact information:**
 
-https://ikrutoi.github.io/rsschool-cv/cv
+##### **Phone:** +375 29 6780585
+##### **E-mail:** iharkrutoi@gmail.com
+##### https://www.linkedin.com/in/ihar-krutoi-76a466229/
 
-``` JS code
+### **Skills and Proficiency:
 
-function hello() {
-    console.log('Hello World!!!');
-}
+ * HTML5, SCC, Less
+ * JavaScript
+ * Git, GitHub
+ * VS Code
+ * Corel, ScetchUp
 
-hello();
-```
+### **Courses:**
+
+ * IT-Academy. Website development with HTML, CSS & JavaScript 
