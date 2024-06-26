@@ -5,7 +5,8 @@
 
 https://ikrutoi.github.io/rsschool-cv/cv
 
-```javascript
+``` JS code
+
 function hello() {
     console.log('Hello World!!!');
 }
