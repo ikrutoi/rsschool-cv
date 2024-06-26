@@ -4,9 +4,9 @@
 
 ##### **Phone:** +375 29 6780585
 ##### **E-mail:** iharkrutoi@gmail.com
-##### https://www.linkedin.com/in/ihar-krutoi-76a466229/
+##### **Linkedln:** https://www.linkedin.com/in/ihar-krutoi-76a466229/
 
-### **Skills and Proficiency:
+### **Skills and Proficiency:**
 
  * HTML5, SCC, Less
  * JavaScript
