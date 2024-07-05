@@ -19,3 +19,7 @@
 ### **Courses:**
 
  * IT-Academy. Website development with HTML, CSS & JavaScript 
+
+ ### **Language**
+
+ * English A2
