@@ -1,5 +1,7 @@
 # **Ihar Krutoi**
 
+![my-avatar](/my-avatar.jfif)
+
 ### **Contact information:**
 
 ##### **Phone:** +375 29 6780585
