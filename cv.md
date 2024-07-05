@@ -1,5 +1,7 @@
 # **Ihar Krutoi**
 
+![my-avatar](/my-avatar.jfif)
+
 ### **Contact information:**
 
 ##### **Phone:** +375 29 6780585
@@ -17,3 +19,7 @@
 ### **Courses:**
 
  * IT-Academy. Website development with HTML, CSS & JavaScript 
+
+ ### **Language**
+
+ * English A2
