@@ -20,6 +20,6 @@
 
  * IT-Academy. Website development with HTML, CSS & JavaScript 
 
- ### **Language**
+### **Language:**
 
  * English A2
